@@ -21,7 +21,7 @@
     "tslint-config-standard": "^8.0.1",
     "tslint-loader": "^3.5.4",
     "typescript": "^3.5.3",
-    "vant": "^2.0.6",
+    "vant": "^2.1.8",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
     "vue-property-decorator": "^8.2.1",
